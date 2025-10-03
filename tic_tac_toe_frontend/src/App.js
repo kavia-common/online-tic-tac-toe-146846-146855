@@ -111,7 +111,7 @@ export default function App() {
         </div>
 
         <footer className="ttt-footer" aria-label="Footer">
-          <p className="ttt-footnote">Ocean Professional theme — Blue & Amber accents</p>
+          <p className="ttt-footnote">Dark Professional theme — Dark surfaces with Blue & Amber accents</p>
         </footer>
       </main>
     </div>
